@@ -3,6 +3,10 @@
 - Aliaksei Hlukhau
 # Description of the project 
 This project automates turning on a desk lamp at a specific time (e.g., 7:00 AM) using an Arduino. The motivation behind this project was the difficulty of waking up in the dark during winter. The system works autonomously without a computer and is powered by a battery pack. 
+
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1o9VgeE0n4iUKGCgfi6M5EJe8Z111yw_X/view?usp=sharing))
+
+
 # Science and tech used 
 1. Arduino Board for processing
 2. Battery Pack for independent power supply
