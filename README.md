@@ -4,7 +4,7 @@
 # Description of the project 
 This project automates turning on a desk lamp at a specific time (e.g., 7:00 AM) using an Arduino. The motivation behind this project was the difficulty of waking up in the dark during winter. The system works autonomously without a computer and is powered by a battery pack. 
 
-![the lamp]([https://imgur.com/a/sp6TpUP.gif](https://drive.usercontent.google.com/download?id=1o9VgeE0n4iUKGCgfi6M5EJe8Z111yw_X&authuser=0.gif))
+![the lamp](https://github.com/ComplexityGarage/ExemplaryProject5/blob/main/the_lamp_02.JPG?raw=true)
 
 
 
